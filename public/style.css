@@ -1,0 +1,11 @@
+div#content {
+    width: 40em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16pt;
+    line-height: 1.5;
+}
+
+h1 {
+    font-family: sans-serif;
+}
